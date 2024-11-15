@@ -273,6 +273,7 @@ This project is no longer actively supported.
 * [DeepPavlov](https://deeppavlov.ai) - An open source library for deep learning end-to-end dialog systems and chatbots.
 
 ### Bot building platforms
+* [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
 * [BLiP](http://blip.ai/en/) - BLiP helps you serve, engage and sell through conversations on your site and app, Facebook Messenger, Workplace, SMS, Email, Telegram, Twitter, Skype and other popular apps. All you need to create, manage and evolve your chatbot on the same platform.
 * [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding. Launch a full-featured chatbot in 7 minutes
